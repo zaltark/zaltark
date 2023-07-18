@@ -2,9 +2,9 @@
 
 - 👀 I’m interested in ... Linux! Specifically learning how it works and becoming apart of the community.
 
-- 🌱 I’m currently learning ... Flatpaks! I did the tutorial for Snaps too, but I think Flatpaks are better.
+- 🌱 I’m currently learning ... General Fedora/CentOS
   
-- 💞️ I’m looking to collaborate on ... Anything related to flatpaks! And Fedora. And Gaming! I need Linux to become a pro gaming system.
+- 💞️ I’m looking to collaborate on ... Anything!
   
 - 📫 How to reach me ... Discord would be best probably.  - zaltark
 
